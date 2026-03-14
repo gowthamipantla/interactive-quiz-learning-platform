@@ -20,8 +20,11 @@
 - JavaScript (Vanilla JS)
 - LocalStorage API
 
+## 📂 Project Structure
+
 ## Folder Structure
 
+```
 interactive-quiz-learning-platform
 │
 ├── index.html
@@ -33,7 +36,7 @@ interactive-quiz-learning-platform
     ├── quiz-question.png
     ├── answer-highlight.png
     └── result-screen.png
-
+```
 ## Screenshots
 
 ### Start Screen
